@@ -1,0 +1,12 @@
+*.o
+*.d
+*.inc
+9cc
+
+tags
+GTAGS
+GRTAGS
+GPATH
+
+Session.vim
+
